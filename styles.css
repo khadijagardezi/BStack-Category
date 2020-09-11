@@ -16,6 +16,10 @@
   background : #F9C74F;
   /* opacity: .8; */
 }
+#dropdownMenuButton {
+ border : none;
+ margin-top: 7px;
+}
 .flex {
   display: flex;
   justify-content: space-between;
